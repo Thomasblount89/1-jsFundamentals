@@ -2,11 +2,11 @@
 a ternary is the shortcut version tp awrite a conditional
 */
 let num = 6;
-// if/else
+ if/else
 if (num > 0) {
-    console.log('The number is positive');
+   console.log('The number is positive');
 } else {
-    console.log('The number is negative');
+   console.log('The number is negative');
 }
 //ternary
 
